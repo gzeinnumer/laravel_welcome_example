@@ -20,8 +20,8 @@ Route::get('/', function () {
 });
 ```
 
-- [topper.blade.php]()
-- [bottom.blade.php]()
+- [topper.blade.php](layouts/topper.blade.php)
+- [bottom.blade.php](layouts/bottom.blade.php)
 
 ```php
 @include('layouts.topper')
